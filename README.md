@@ -21,12 +21,17 @@ where I envisage a new chapter filled with enriching experiences and an abundanc
 ## 🛠️ Skills
 
 - C/C++
+- ReactJS
+- NodeJS
+- ExpressJS
 - Kotlin
 - Javascript
 - Assembly
 - Python
 - HTML
 - CSS
+- MongoDB
+- AWS
 - MySQL
 - PHP
 
