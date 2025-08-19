@@ -37,7 +37,7 @@ where I envisage a new chapter filled with enriching experiences and an abundanc
 
 ## 🌱 Interests
 
-- PS4 Gamer
+- Playstation Gamer
 - Beginner Violin player
 - Biliards Player
 - Cards Player
